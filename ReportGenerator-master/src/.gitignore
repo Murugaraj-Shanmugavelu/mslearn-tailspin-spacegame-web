@@ -1,0 +1,17 @@
+/.vs
+/AzureDevopsTask/ReportGenerator/tools
+/AzureDevopsTask/ReportGenerator/reportgenerator.js
+/AzureDevopsTask/*.vsix
+/TestResults
+/Testprojects/CoverageTools
+/Testprojects/TestResults
+/target
+/resources
+/publish.bat
+*.suo
+*.user
+*.Cache
+bin
+obj
+.DS_Store
+node_modules
